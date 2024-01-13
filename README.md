@@ -30,3 +30,5 @@ Listary，本地文件检索查找，查找速度快，不占用内存，历史�
 Windows Terminal，微软自家终端模拟器，[链接](https://github.com/microsoft/terminal)
 
 Fork，漂亮的Git GUI，界面设计是Apple风格，[链接](https://git-fork.com/)
+
+Thunder Client，接口测试工具，是VSCode的插件，可以做Http请求测试，[链接](https://www.thunderclient.com/)
