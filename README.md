@@ -27,7 +27,7 @@ Fork，漂亮的Git GUI，界面设计是Apple风格，[链接](https://git-fork
 
 Thunder Client，接口测试工具，是VSCode的插件，可以做Http请求测试，[链接](https://www.thunderclient.com/)
 
-WinMerge，代码对比工具，可对比文本差异以及进行合并，[链接]([WinMerge/winmerge: WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. (github.com)](https://github.com/WinMerge/winmerge))
+WinMerge，代码对比工具，可对比文本差异以及进行合并，[链接](https://github.com/WinMerge/winmerge)
 
 NetDebugger，轻量级网络协议调试助手，支持串口调试 , 支持串口转发调试 , 支持TCP 客户端/服务端 调试 , 支持UDP调试 , 支持Websocket调试 ，[链接](https://github.com/Zhou-zhi-peng/NetDebugger)
 
