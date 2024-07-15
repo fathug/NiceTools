@@ -11,11 +11,11 @@ Roslynator，代码分析工具，[链接](https://github.com/dotnet/roslynator)
 
 CodeNav 2022，展示当前文档的代码结构，[链接](https://marketplace.visualstudio.com/items?itemName=SamirBoulema.CodeNav2022)
 
-Supercharger，强大的辅助工具，[链接]([Supercharger - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger))
+Supercharger，强大的辅助工具，[链接](https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger22)
 
 #### Programming Fonts
 
-Source Code Pro，[推荐链接](https://www.v2ex.com/t/67352)
+Source Code Pro，[链接](https://fonts.google.com/specimen/Source+Code+Pro)
 
 #### 代码开发
 
