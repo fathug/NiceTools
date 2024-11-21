@@ -3,9 +3,13 @@ Nice and useful tools in work and life
 
 ---
 
-#### Expansion of Visual Studio（Applicable to VS2022）
+#### Visual Studio扩展（适用于VS2022）
 
-RainbowBraces，括号着色，自认为比Viasfora观感更舒服，[链接](https://github.com/madskristensen/RainbowBraces)
+Rainbow Braces，括号着色，自认为比Viasfora观感更舒服，[链接](https://github.com/madskristensen/RainbowBraces)
+
+CSharpier，格式化C#代码，调整并重写不规范的语法，[链接](https://marketplace.visualstudio.com/items?itemName=csharpier.CSharpier)
+
+XAML Styler for Visual Studio 2022，格式化XAML代码，[链接](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler2022)
 
 Roslynator，代码分析工具，[链接](https://github.com/dotnet/roslynator)
 
@@ -13,9 +17,27 @@ CodeNav 2022，展示当前文档的代码结构，[链接](https://marketplace.
 
 Supercharger，强大的辅助工具，[链接](https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger22)
 
+Darcula Theme，一款主题，[链接](https://marketplace.visualstudio.com/items?itemName=FINNSEEFLY.Darcula-Theme-For-Visual-Studio)
+
+One Dark Pro，一款主题，[链接](https://marketplace.visualstudio.com/items?itemName=adrianwilczynski.one-dark-pro)
+
+JetbrainsRiderTheme-Dark，一款主题，[链接](https://marketplace.visualstudio.com/items?itemName=pritompurkayasta.JetbrainsRiderDark)
+
+#### VS Code 扩展
+
+Copilot Theme，一款主题，[链接](https://marketplace.visualstudio.com/items?itemName=BenjaminBenais.copilot-theme)
+
+Markmap，用Markdown生成脑图
+
+Marp for VS Code，用Markdown写PPT文稿，扩展的图标很好看，[链接](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+
 #### Programming Fonts
 
 Source Code Pro，[链接](https://fonts.google.com/specimen/Source+Code+Pro)
+
+Cascadia Mono，笔者目前使用
+
+JetBrains Mono，[链接](https://github.com/JetBrains/JetBrainsMono)
 
 #### 代码开发
 
@@ -24,8 +46,6 @@ Windows Terminal，微软自家终端模拟器，[链接](https://github.com/mic
 Sourcetree，Free Git GUI，[链接](https://www.sourcetreeapp.com/)
 
 Fork，漂亮的Git GUI，界面设计是Apple风格，[链接](https://git-fork.com/)
-
-Thunder Client，接口测试工具，是VSCode的插件，可以做Http请求测试，[链接](https://www.thunderclient.com/)
 
 WinMerge，代码对比工具，可对比文本差异以及进行合并，[链接](https://github.com/WinMerge/winmerge)
 
