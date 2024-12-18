@@ -31,6 +31,8 @@ Markmap，用Markdown生成脑图
 
 Marp for VS Code，用Markdown写PPT文稿，扩展的图标很好看，[链接](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
+Polyglot Notebooks，类似于Python的JupyterNotebook，方便测试简单代码
+
 #### Programming Fonts
 
 Source Code Pro，[链接](https://fonts.google.com/specimen/Source+Code+Pro)
