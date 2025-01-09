@@ -59,6 +59,8 @@ FastStone Image Viewer，图片浏览软件，快速的打开响应时间，图�
 
 Snipaste，截图，[链接](https://www.snipaste.com/)
 
+Halcon，对于图像处理要求较高的时候需要看到每个图像坐标上通道的像素值
+
 #### 本地管理
 
 Listary，本地文件检索查找，查找速度快，不占用内存，历史版本5比较好用，[链接](https://www.listary.com/)
