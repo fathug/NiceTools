@@ -51,6 +51,8 @@ Fork，漂亮的Git GUI，界面设计是Apple风格，[链接](https://git-fork
 
 WinMerge，代码对比工具，可对比文本差异以及进行合并，[链接](https://github.com/WinMerge/winmerge)
 
+Notepad3，文本编辑和查看，（也可用Notepad++替代，性能更好，但开发者喜欢表明立场）
+
 NetDebugger，轻量级网络协议调试助手，支持串口调试 , 支持串口转发调试 , 支持TCP 客户端/服务端 调试 , 支持UDP调试 , 支持Websocket调试 ，[链接](https://github.com/Zhou-zhi-peng/NetDebugger)
 
 #### 图像处理
@@ -60,6 +62,8 @@ FastStone Image Viewer，图片浏览软件，快速的打开响应时间，图�
 Snipaste，截图，[链接](https://www.snipaste.com/)
 
 Halcon，对于图像处理要求较高的时候需要看到每个图像坐标上通道的像素值
+
+Beyond Compare，用于比较、合并文件。比如图片、文本、文件夹、注册表、mp3等，[链接](https://www.scootersoftware.com/)
 
 #### 本地管理
 
